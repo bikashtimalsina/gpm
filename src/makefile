@@ -11,7 +11,8 @@
 #    using pre-computed radial functions in the descriptors
 ###########################################################
 
-
+# okay just a heads up for compiling with different CUDA architecture
+# this is for Tesla T4 GPU
 ###########################################################
 # some flags
 ###########################################################
